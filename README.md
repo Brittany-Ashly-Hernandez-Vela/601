@@ -23,3 +23,23 @@ Alumna: Hernandez Vela Brittany Ashly
 
 
 6.-JUEGO
+
+UNIDA 2
+EXCEPCIONES
+1.- Ejercicio 1
+2.-Ejercicio 2
+3.-Ejercicio 3
+4.-Ejercicio 4
+5.-Ejercicio 5
+6.-Ejercicio 6
+7.-Excepciones1
+8.-Excepciones2
+9.-Excepciones3
+10.-Excepciones4
+11.-Excepciones5
+
+UNIDAD 3 Y 4
+SOCKET
+1.-cliente
+2.-servidor
+3.-video
